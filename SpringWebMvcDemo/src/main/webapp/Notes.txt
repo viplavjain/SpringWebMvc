@@ -1,0 +1,6 @@
+1. Add dependency of servlet-api in pom.xml.
+2. Add dependency of spring web mvc in pom.xml.
+
+3. Switch to JEE perspective to bring Servers section.
+4. Download Apache Tomcat.Link to download Tomcat :- https://www.youtube.com/watch?v=PH-bK3g2YmU
+5. Prepare folder with name java under main folder.
